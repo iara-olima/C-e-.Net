@@ -1,0 +1,11 @@
+Atributos:
+variável que pertence a classe, representa características ou propriedades dos objetos criados a partir da classe
+Ex: //class Carro     ---atributos:
+//public string cor; public stirng modelo;
+
+Metodo:
+função definida dentro de uma classe, podem manipular atributos e realizar operações
+Ex; a classe Carro pode ter o metodo Acelerar()
+
+Propriedade:
+Manipula atributos com logica adicional (onde se add o get e o set)
